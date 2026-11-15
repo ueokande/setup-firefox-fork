@@ -63,6 +63,8 @@ jobs:
 
 - `firefox-version`: *(Optional)* The Firefox version to install and use.
   Default: `latest`
+- `firefox-language`: *(Optional)* The Firefox language to install, such as `en-US` or `ja`.
+  Default: `en-US`
 
 ### Outputs
 
