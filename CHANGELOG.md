@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/ueokande/setup-firefox-fork/compare/setup-firefox-v1.7.2...setup-firefox-v1.8.0) (2026-11-15)
+
+
+### Features
+
+* validate sandbox release publication ([baa0687](https://github.com/ueokande/setup-firefox-fork/commit/baa06877ab91361286b38ca42a5f01c189869139))
+
 ## [1.7.2](https://github.com/browser-actions/setup-firefox/compare/setup-firefox-v1.7.1...setup-firefox-v1.7.2) (2026-05-06)
 
 
